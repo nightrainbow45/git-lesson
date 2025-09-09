@@ -1,3 +1,5 @@
+fixed the bug 
+
 edit on dev branch
 
 
